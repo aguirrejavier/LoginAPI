@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MC\\source\\repos\\AutenticacionAPI\\AutenticacionAPI\\AutenticacionAPI.csproj": {}
+    "C:\\Users\\CARLITO\\Desktop\\LoginAPI\\AutenticacionAPI\\AutenticacionAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MC\\source\\repos\\AutenticacionAPI\\AutenticacionAPI\\AutenticacionAPI.csproj": {
+    "C:\\Users\\CARLITO\\Desktop\\LoginAPI\\AutenticacionAPI\\AutenticacionAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MC\\source\\repos\\AutenticacionAPI\\AutenticacionAPI\\AutenticacionAPI.csproj",
+        "projectUniqueName": "C:\\Users\\CARLITO\\Desktop\\LoginAPI\\AutenticacionAPI\\AutenticacionAPI.csproj",
         "projectName": "AutenticacionAPI",
-        "projectPath": "C:\\Users\\MC\\source\\repos\\AutenticacionAPI\\AutenticacionAPI\\AutenticacionAPI.csproj",
-        "packagesPath": "C:\\Users\\MC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MC\\source\\repos\\AutenticacionAPI\\AutenticacionAPI\\obj\\",
+        "projectPath": "C:\\Users\\CARLITO\\Desktop\\LoginAPI\\AutenticacionAPI\\AutenticacionAPI.csproj",
+        "packagesPath": "C:\\Users\\CARLITO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\CARLITO\\Desktop\\LoginAPI\\AutenticacionAPI\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\MC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\CARLITO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -95,7 +99,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }
